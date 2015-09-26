@@ -3,6 +3,7 @@
 A small screenshot tool for OS X.
 
 Instructions:
+
 1. Select the type of screenshot to take (or press return for a fullscreen one)
 2. Select the window to take (if capturing a window screenshot)
 3. There is no step 3.

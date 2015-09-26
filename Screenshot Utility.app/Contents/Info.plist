@@ -46,7 +46,9 @@
 		<key>savedFrame</key>
 		<string>643 262 1146 662 0 0 2560 1417 </string>
 		<key>selectedTab</key>
-		<string>result</string>
+        <string>result</string>
 	</dict>
+        <key>LSUIElement</key>
+        <true/>
 </dict>
 </plist>
