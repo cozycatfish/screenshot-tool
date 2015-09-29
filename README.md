@@ -2,18 +2,15 @@
 
 A small screenshot tool for OS X.
 
-Instructions:
+## Features
 
-1. Select the type of screenshot to take (or press return for a fullscreen one)
-2. Select the window to take (if capturing a window screenshot)
-3. There is no step 3.
+- Easy and fast. Grab requires choosing a place to save the screenshot, Screenshot Tool saves to the Downloads folder.
+- Clean screenshots. Screenshot Tool gives no ugly dock icon.
+- Saves screenshots as PNGs.
 
-It saves to the Downloads folder by default as a PNG with the date as the filename.
-Unlike Grab or other screenshots apps it doesn't show its icon in the dock giving clean screenshots.
+The folder in which the screenshots are saved is hardcoded. To change it, open the app in Applescript.
 
-Unfortunately, the folder in which the screenshots are saved is hardcoded. To change it, open the app in Applescript.
-
-Saving the app afterwards will then lead to the app icon being shown in the dock. To hide the app icon while running, open the Info.plist and add the following string right before the second to last ` </dict>` element:
+Saving the app afterwards will then lead to the app icon being shown in the dock. To hide the app icon while running, open the Info.plist and add the following two strings right before the second to last ` </dict>` element:
 
 `<key>LSUIElement</key>`
 
