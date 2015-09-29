@@ -2,6 +2,8 @@
 
 A small screenshot tool for OS X.
 
+![](https://github.com/cozycatfish/screenshot-tool/raw/master/desktop.gif)
+
 ## Features
 
 - Easy and fast. Grab requires choosing a place to save the screenshot, Screenshot Tool saves to the Downloads folder.
