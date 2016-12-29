@@ -1,3 +1,5 @@
+Development has continued [here](https://github.com/linusbobcat/Screenshot-Utility)
+
 # screenshot-tool
 
 A small screenshot tool for OS X.
